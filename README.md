@@ -1,14 +1,6 @@
-#Group 21
-CSCE 2110 Project 2
-
 Contagion
 
 
-Group Members
-1.Prajit Budhathoki
-2.Pravash Timalsina
-3.Asim Timsina
-4.Rohan Lamichhane
 
 #How to Compile
 1. Compile the code by placing the files {main.cpp, distributerandomly.cpp, distributeequally.cpp, distributeproportionally.cpp,simulation.cpp, agent.cpp} into one directory seperate from other .cpp files.
